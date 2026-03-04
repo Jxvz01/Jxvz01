@@ -1,9 +1,9 @@
 
 # 🏙️ My GitHub City
-[![My Git City](https://git-city.vercel.app)](https://www.thegitcity.com/dev/jxvz01)
+
 <div align="center">
-  <a href="https://www.thegitcity.com">
-    <img src="https://git-city.vercel.app" alt="jxvz01's Git City Building" />
+  <a href="https://www.thegitcity.com/dev/jxvz01">
+    <img src="https://www.thegitcity.com/dev/jxvz01" alt="jxvz01's Git City Building" />
   </a>
   <p><i>Click my building to explore the 3D city!</i></p>
 </div>
