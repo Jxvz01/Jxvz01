@@ -8,12 +8,6 @@
   <p><i>Click my building to explore the 3D city!</i></p>
 </div>
 
-    <img src="[https://git-city.vercel.app" alt="jxvz01's Git City Building](https://www.thegitcity.com/dev/jxvz01)" />
-  </a>
-  <p>🏙️ <b>My GitHub City</b></p>
-  <p><i>Click the building to explore the full 3D city!</i></p>
-</div>
-
 <!--
 **Jxvz01/Jxvz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
