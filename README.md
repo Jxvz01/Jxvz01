@@ -13,10 +13,10 @@
 <br/>
 
 <!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://linkedin.com/in/sathwikshettyn)
-[![Instagram](https://img.shields.io/badge/-Instagram-ff6e96?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/sathwik__shetty__)
-[![Gmail](https://img.shields.io/badge/-Gmail-ff6e96?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:sathwikshettyn2@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-00ffff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/sathwikshetty0)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://linkedin.com/in/jeevan-h-)
+[![Instagram](https://img.shields.io/badge/-Instagram-ff6e96?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/__.jxvz01)
+[![Gmail](https://img.shields.io/badge/-Gmail-ff6e96?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:thejxxuu@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-00ffff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/Jxvz01)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/identity-card.svg" width="100%" alt="System Identity Card" />
+<img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/main/identity-card.svg" width="100%" alt="System Identity Card" />
 
 </div>
 
@@ -38,7 +38,7 @@
 
 ### ✨ CONTRIBUTION CONSTELLATION
 
-<img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01main/github-user-contribution.svg" alt="Contribution Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/main/github-user-contribution.svg" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -54,60 +54,9 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-I'm an Engineer living at the intersection of **AI, robotics, hardware, and full-stack development**. I don't just write code — I build systems that **matter**.
+I'm an Engineering Student living at the intersection of **AI, robotics, hardware, and full-stack development**. I don't just write code — I build systems that **matter**.
 
-- 🧠 **AI & RAG Enthusiast** — LangChain, LangFlow, vector DBs, agentic pipelines
-- 👁️ **OpenCV Obsessive** — Computer vision is my superpower
-- 🤖 **Robotics Builder** — Line followers, soccer bots, sumo bots, humanoids
-- 🛵 **Creator of AeroWave** — MSME-funded AI smart helmet for deaf riders (₹16.5L grant!)
-- 🚀 **Aerospace Contributor** — Rocket design & avionics at Agnihotri Aerospace
-- 📡 **IoT Architect** — Arduino, Raspberry Pi, ROS, sensors, actuators
-- 🏫 **LMS Builder** — Scalable ed-tech platform at Dexes Edtech
-- 🎓 **Mentor & Teacher** — Helping projects and people grow
-- 📜 **Patent Holder** — Multiple filings & national-level recognition
 
-<br clear="right"/>
-
----
-
-<!-- ═══════════════════════ CURRENTLY BUILDING ═══════════════════════ -->
-
-## 🔭 CURRENTLY BUILDING
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🛵 AeroWave — <em>MSME Funded Smart Helmet</em></h3>
-
-<img src="https://img.shields.io/badge/STATUS-LIVE%20BUILD-00ffff?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GRANT-₹16.5L%20MSME-ff6e96?style=flat-square&labelColor=0d1117" />
-
-> AI-powered helmet that detects ambulance sirens and converts them into **haptic + visual signals** for deaf and hard-of-hearing riders.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
-
-</td>
-<td width="50%" valign="top">
-
-<h3>⚡ Speed Demon Line Follower</h3>
-
-<img src="https://img.shields.io/badge/STATUS-TUNING-ffaa00?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CATEGORY-COMPETITION-ff6e96?style=flat-square&labelColor=0d1117" />
-
-> Pushing PID tuning and motor control to the absolute edge — because limits exist to be broken.
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![PID](https://img.shields.io/badge/PID%20Control-⚙️-grey?style=flat-square&labelColor=0d1117)
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -153,14 +102,6 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 
 | 🏅 Achievement | 📋 Detail |
 |:---|:---|
-| 💰 **₹16.5 Lakh MSME Grant** | AeroWave Smart Helmet — Government-backed funding as a college student |
-| 🥇 **National-Level Recognition** | Project awarded at national-level competitions |
-| 📜 **Multiple Patent Filings** | Intellectual property secured before finishing degree |
-| 🚀 **Rocket & Avionics Work** | Contributed to rocket design at Agnihotri Aerospace |
-| 🛵 **AeroWave — Built & Funded** | AI smart helmet for deaf riders — live, funded, real |
-| 🏫 **Product Dev @ Dexes Edtech** | Scalable LMS platform reaching real students |
-| 🎓 **Mentor** | Guiding juniors, teams & projects to grow |
-| 🌐 **Rare Full-Stack + AI + Hardware** | One of the very few who bridges all three worlds |
 
 </div>
 
@@ -290,16 +231,16 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sathwikshetty0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&border_radius=12" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikshetty0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jxvz01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxvz01&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&border_radius=12" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sathwikshetty0&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=00ffff&sideLabels=ff6e96&dates=c9d1d9&stroke=0d1117&border_radius=12" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Jxvz01&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=00ffff&sideLabels=ff6e96&dates=c9d1d9&stroke=0d1117&border_radius=12" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathwikshetty0&theme=radical" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jxvz01&theme=radical" width="98%" />
 
 <br/>
 
@@ -329,7 +270,7 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 
 <div align="center">
 
-[![Sathwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathwikshetty0&bg_color=0d1117&color=ff6e96&line=00ffff&point=ffffff&area=true&area_color=00ffff20&hide_border=true&radius=6)](https://github.com/sathwikshetty0)
+[![Sathwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jxvz01&bg_color=0d1117&color=ff6e96&line=00ffff&point=ffffff&area=true&area_color=00ffff20&hide_border=true&radius=6)](https://github.com/Jxvz01)
 
 </div>
 
@@ -341,18 +282,9 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 
 <div align="center">
 
-[![AeroWave](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Disaster-Response-Management-System-DRMS-&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/Disaster-Response-Management-System-DRMS-)
-[![PID Line Follower](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=PID-line-Follower&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/PID-line-Follower)
-
-[![Git Quest](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Git-Quest-&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/Git-Quest-)
-[![Desirability Assessment](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Desirability-Assessment-Tool&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/Desirability-Assessment-Tool)
-
-[![Pick And Place Bot](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Arduino-Pick-And-Place-Bot&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/Arduino-Pick-And-Place-Bot)
-[![ESP-NOW Controller](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=ESP-NOW-Controller&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/ESP-NOW-Controller)
-
 <br/>
 
-[![View All Repos](https://img.shields.io/badge/⚡_Explore_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=ff6e96&labelColor=0d1117)](https://github.com/sathwikshetty0?tab=repositories)
+[![View All Repos](https://img.shields.io/badge/⚡_Explore_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=ff6e96&labelColor=0d1117)](https://github.com/Jxvz01?tab=repositories)
 
 </div>
 
@@ -361,13 +293,13 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 
 ### 🏙️ MY GIT CITY — *Every commit builds a skyline*
 
-<a href="https://www.thegitcity.com/dev/sathwikshetty0" target="_blank">
-  <img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/git-city-card.png" width="100%" alt="Git City — sathwikshetty0" />
+<a href="https://www.thegitcity.com/dev/Jxvz01" target="_blank">
+  <img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/main/git-city-card.png" width="100%" alt="Git City — Jxvz01" />
 </a>
 
 <br/>
 
-[![Explore Git City Live](https://img.shields.io/badge/🏙️_EXPLORE_MY_GIT_CITY_LIVE-Click_to_Open_3D_City-00ffff?style=for-the-badge&labelColor=0d1117)](https://www.thegitcity.com/dev/sathwikshetty0)
+[![Explore Git City Live](https://img.shields.io/badge/🏙️_EXPLORE_MY_GIT_CITY_LIVE-Click_to_Open_3D_City-00ffff?style=for-the-badge&labelColor=0d1117)](https://www.thegitcity.com/dev/Jxvz01)
 
 </div>
 
@@ -375,7 +307,7 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 
 ## ⚡ SYSTEM LOGS
 
-<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/facts.svg" width="100%" alt="name-banner" />
+<img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/main/facts.svg" width="100%" alt="name-banner" />
 
 
 ---
@@ -398,15 +330,15 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwikshettyn)
-[![Email](https://img.shields.io/badge/Send_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikshettyn2@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathwikshetty0)
-[![Git City](https://img.shields.io/badge/🏙️_Visit_Git_City-00ffff?style=for-the-badge&labelColor=0d1117)](https://www.thegitcity.com/dev/sathwikshetty0)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevan-h-)
+[![Email](https://img.shields.io/badge/Send_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejxxuu@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jxvz01)
+[![Git City](https://img.shields.io/badge/🏙️_Visit_Git_City-00ffff?style=for-the-badge&labelColor=0d1117)](https://www.thegitcity.com/dev/Jxvz01)
 
-[![](https://visitcount.itsvg.in/api?id=sathwikshetty0&icon=5&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jxvz01&icon=5&color=8)](https://visitcount.itsvg.in)
 
 <br/>
 
-*— Sathwik Shetty · Crafted with ☕, ⚡ & way too many late nights*
+*— H. JEEVAN · Crafted with ☕, ⚡ & way too many late nights*
 
 </div>
