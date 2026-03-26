@@ -2,12 +2,12 @@
 
 <!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/name-banner.svg" width="100%" alt="name-banner" />
+<img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/main/name-banner.svg" width="100%" alt="name-banner" />
 
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/roles.svg" width="80%" alt="roles" />
+<img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/main/roles.svg" width="80%" alt="roles" />
 
 
 <br/>
@@ -38,7 +38,7 @@
 
 ### ✨ CONTRIBUTION CONSTELLATION
 
-<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/github-user-contribution.svg" alt="Contribution Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01main/github-user-contribution.svg" alt="Contribution Graph" width="100%" />
 
 </div>
 
