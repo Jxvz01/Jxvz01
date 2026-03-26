@@ -1,14 +1,3 @@
-<div align="center">
-
-<!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/main/name-banner.svg" width="100%" alt="name-banner" />
-
-
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/main/roles.svg" width="80%" alt="roles" />
-
 
 <br/>
 
@@ -270,7 +259,7 @@ I'm an Engineering Student living at the intersection of **AI, robotics, hardwar
 
 <div align="center">
 
-[![Sathwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jxvz01&bg_color=0d1117&color=ff6e96&line=00ffff&point=ffffff&area=true&area_color=00ffff20&hide_border=true&radius=6)](https://github.com/Jxvz01)
+[![Jxvz01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jxvz01&bg_color=0d1117&color=ff6e96&line=00ffff&point=ffffff&area=true&area_color=00ffff20&hide_border=true&radius=6)](https://github.com/Jxvz01)
 
 </div>
 
@@ -294,7 +283,6 @@ I'm an Engineering Student living at the intersection of **AI, robotics, hardwar
 ### 🏙️ MY GIT CITY — *Every commit builds a skyline*
 
 <a href="https://www.thegitcity.com/dev/Jxvz01" target="_blank">
-  <img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/main/git-city-card.png" width="100%" alt="Git City — Jxvz01" />
 </a>
 
 <br/>
