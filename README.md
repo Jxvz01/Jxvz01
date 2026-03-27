@@ -11,13 +11,7 @@
 
 <br/>
 
-<!-- ═══════════════════════ ANIMATED IDENTITY CARD ═══════════════════════ -->
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/main/identity-card.svg" width="100%" alt="System Identity Card" />
-
-</div>
 
 <br/>
 
