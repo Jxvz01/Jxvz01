@@ -349,7 +349,7 @@
 
 <!-- GITHUB TROPHIES -->
 <a href="https://github.com/Jxvz01">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Jxvz01&theme=tokyonight&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Jxvz01&theme=radical&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies" />
 </a>
 
 <br/><br/>
@@ -363,9 +363,17 @@
 
 <br/><br/>
 
-<!-- 3D CONTRIBUTION GRAPH (GIT CITY) -->
-<!-- Once you trigger the "GitHub-Profile-3D-Contrib" action, uncomment the line below -->
-<!-- <img width="98%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" /> -->
+<!-- 3D CONTRIBUTION SKYLINE (SNAKE) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jxvz01/Jxvz01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jxvz01/Jxvz01/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/output/github-snake-dark.svg" width="98%" />
+</picture>
+
+<br/><br/>
+
+<!-- DYNAMIC ACTIVITY MATRIX -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jxvz01&bg_color=0d1117&color=00ffff&line=a855f7&point=00ffff&area=true&area_color=1a0a3e&hide_border=false&custom_title=%E2%96%B6%20SYSTEM_ACTIVITY%20%E2%80%94%20Live%20Telemetry&title_color=00ffff&border_color=1a1a3e" alt="Activity Matrix" />
 
 <br/><br/>
 
