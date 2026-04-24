@@ -83,7 +83,7 @@
     name       : "H. Jeevan"
     handle     : "@Jxvz01"
     role       : "Engineering Student"
-    location   : "India 🇮🇳"
+    location   : "Mysuru, India 🇮🇳"
     status     : "◉ ONLINE — Growth Mode"
 
   focus_areas:
@@ -360,6 +360,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jxvz01/Jxvz01/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/output/github-snake-dark.svg" />
 </picture>
+
+<br/><br/>
+
+<!-- 3D CONTRIBUTION GRAPH -->
+<img width="98%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 <br/><br/>
 
