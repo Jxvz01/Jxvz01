@@ -349,8 +349,17 @@
 
 <!-- GITHUB TROPHIES -->
 <a href="https://github.com/Jxvz01">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Jxvz01&theme=radical&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Jxvz01&theme=radical&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="GitHub Trophies" />
 </a>
+
+<br/><br/>
+
+<!-- 3D GIT CITY STATUS CHECK -->
+<div align="center">
+  <img src="https://img.shields.io/badge/GIT__CITY-BOOTING_UP-00ffff?style=for-the-badge&logo=github&labelColor=0d1117" />
+  <br/>
+  <sub><i>Note: Trigger the "GitHub-Profile-3D-Contrib" Action to generate your 3D City!</i></sub>
+</div>
 
 <br/><br/>
 
