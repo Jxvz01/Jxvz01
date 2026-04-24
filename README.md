@@ -354,14 +354,7 @@
 
 <br/><br/>
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jxvz01/Jxvz01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jxvz01/Jxvz01/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Jxvz01/Jxvz01/output/github-snake-dark.svg" />
-</picture>
 
-<br/><br/>
 
 <!-- 3D CONTRIBUTION SKYLINE (SNAKE) -->
 <picture>
