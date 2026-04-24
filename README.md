@@ -347,10 +347,13 @@
 
 <br/><br/>
 
-<!-- GITHUB TROPHIES -->
-<a href="https://github.com/Jxvz01">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Jxvz01&theme=radical&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="GitHub Trophies" />
-</a>
+<!-- SYSTEM_STATISTICS BADGE WALL -->
+<div align="center">
+  <img src="https://img.shields.io/badge/⌬_REPOS-15+-00ffff?style=for-the-badge&logo=github&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⌬_FOLLOWERS-6+-a855f7?style=for-the-badge&logo=github&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⌬_STARS-18+-00ffff?style=for-the-badge&logo=github&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⌬_CONTRIBS-ACTIVE-a855f7?style=for-the-badge&logo=github&labelColor=0d1117" />
+</div>
 
 <br/><br/>
 
