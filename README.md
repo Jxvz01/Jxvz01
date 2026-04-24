@@ -349,7 +349,7 @@
 
 <!-- GITHUB TROPHIES -->
 <a href="https://github.com/Jxvz01">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Jxvz01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Jxvz01&theme=tokyonight&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies" />
 </a>
 
 <br/><br/>
@@ -363,8 +363,9 @@
 
 <br/><br/>
 
-<!-- 3D CONTRIBUTION GRAPH -->
-<img width="98%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<!-- 3D CONTRIBUTION GRAPH (GIT CITY) -->
+<!-- Once you trigger the "GitHub-Profile-3D-Contrib" action, uncomment the line below -->
+<!-- <img width="98%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" /> -->
 
 <br/><br/>
 
